@@ -1,0 +1,42 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+}
+
+section {
+    padding: 60px 0;
+}
+
+h2 {
+    color: #333;
+    font-size: 2rem;
+    margin-bottom: 30px;
+}
+
+h4 {
+    color: #555;
+    font-size: 1.5rem;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+ul li {
+    margin: 10px 0;
+}
+
+.card-img-top {
+    border-radius: 10px;
+}
+
+/* Estilização adicional para o formulário de contato */
+form .form-label {
+    font-weight: bold;
+}
+
+form .btn {
+    background-color: #007bff;
+    border-color: #007bff;
+}
